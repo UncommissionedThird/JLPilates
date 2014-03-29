@@ -1,4 +1,8 @@
     <!-- Teachers Bios -->
+
+    <!--hi teacher -->
+    
+
     <div id="teachers" class="teachers">
         <div class="container">
             <div class="row">
